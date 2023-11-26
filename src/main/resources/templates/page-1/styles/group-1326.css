@@ -1,0 +1,538 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.group-1326-HLZ {
+  width: 100%;
+  height: 194.8rem;
+}
+.group-1326-HLZ .re1-o41 {
+  box-sizing: border-box;
+  padding-top: 3.1rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.group-1326-HLZ .re1-o41 .header-v8d {
+  margin: 0rem 6.85rem 7.7rem 5.1rem;
+  box-sizing: border-box;
+  padding-left: 0.45rem;
+  width: calc(100% - 11.95rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .header-v8d .arrow-circle-leftcurved-DNd {
+  margin: 0.95rem 98.5rem 0rem 0rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .header-v8d .ev-charging-station-rest-stops-KwT {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 6;
+  color: #ad343e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .header-v8d .ev-charging-station-rest-stops-KwT .ev-charging-station-rest-stops-KwT-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 6;
+  color: #ad343e;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.group-1326-HLZ .re1-o41 .header-v8d .ev-charging-station-rest-stops-KwT .ev-charging-station-rest-stops-KwT-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 6;
+  color: #ad343e;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.group-1326-HLZ .re1-o41 .auto-group-cdnd-gow {
+  margin-bottom: 5.9rem;
+  width: 160rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-cdnd-gow .line-311-pfF {
+  margin: 3.9rem 2.8rem 0rem 0rem;
+  width: 61.1rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-cdnd-gow .review-YbF {
+  margin-right: 2.9rem;
+  text-align: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 0.96;
+  color: #2b2e23;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-cdnd-gow .line-312-FkZ {
+  margin-top: 3.7rem;
+  width: 61.1rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV {
+  margin-bottom: 15.9rem;
+  box-sizing: border-box;
+  padding: 11.5rem 3.7rem 49.3rem 3.7rem;
+  width: 160rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(239, 170, 130, 0.1099999994);
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD {
+  margin: 0rem 14.6rem 17.4rem 0rem;
+  height: 36.9rem;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT {
+  margin-right: 8.1865rem;
+  box-sizing: border-box;
+  padding: 4.07rem 2.531rem 5.63rem 3.411rem;
+  width: 40.5424rem;
+  height: 100%;
+  background-color: #f8f8f6;
+  border-radius: 1.2rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .text-EuK {
+  margin-bottom: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .text-EuK .i-like-this-ayB {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad343e;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .text-EuK .i-could-easily-locate-and-map-out-charging-stations-along-my-route-making-the-entire-journey-more-manageable-H6u {
+  max-width: 34.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .line-310-9uo {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(219, 223, 208, 0.6999999881);
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .user-5oT {
+  margin-right: 13.4rem;
+  width: calc(100% - 13.4rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .user-5oT .ellipse-19-Duf {
+  margin-right: 2rem;
+  width: 7rem;
+  height: 7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-19-bg-3Yh.png');
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .user-5oT .text-Kho {
+  margin: 0.95rem 0;
+  height: calc(100% - 1.9rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .user-5oT .text-Kho .sophire-robson-ezy {
+  margin-bottom: 0.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-1-2HT .content-WiR .user-5oT .text-Kho .los-angeles-ca-aNq {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 {
+  margin-right: 8.1864rem;
+  box-sizing: border-box;
+  padding: 4.07rem 2.531rem 2.83rem 3.411rem;
+  width: 40.5424rem;
+  height: 100%;
+  background-color: #f8f8f6;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .text-vr1 {
+  margin-bottom: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .text-vr1 .easy-to-use-tXw {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad343e;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .text-vr1 .easy-to-use-tXw .easy-to-use-tXw-sub-0 {
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .text-vr1 .easy-to-use-tXw .easy-to-use-tXw-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad343e;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .text-vr1 .easy-to-use-tXw .easy-to-use-tXw-sub-2 {
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .text-vr1 .accessing-the-website-from-my-smartphone-was-just-as-smooth-as-using-it-on-my-computer-making-impromptu-charging-stops-hassle-free-csF {
+  max-width: 34.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .line-310-HiV {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(219, 223, 208, 0.6999999881);
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .user-piR {
+  margin-right: 12.3rem;
+  width: calc(100% - 12.3rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .user-piR .image-mNm {
+  margin-right: 2rem;
+  width: 7rem;
+  height: 7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-obj.png');
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .user-piR .text-h1X {
+  margin: 0.95rem 0;
+  height: calc(100% - 1.9rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .user-piR .text-h1X .andy-smith-SE1 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .auto-group-g13b-rr9 .content-Arq .user-piR .text-h1X .san-francisco-ca-ZZX {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD {
+  box-sizing: border-box;
+  padding: 4.07rem 2.531rem 2.83rem 3.411rem;
+  width: 40.5424rem;
+  height: 100%;
+  background-color: #f8f8f6;
+  border-radius: 1.2rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .text-k8D {
+  margin-bottom: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .text-k8D .it-is-a-useful-site-hZF {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad343e;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .text-k8D .it-is-a-useful-site-hZF .it-is-a-useful-site-hZF-sub-0 {
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .text-k8D .it-is-a-useful-site-hZF .it-is-a-useful-site-hZF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad343e;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .text-k8D .it-is-a-useful-site-hZF .it-is-a-useful-site-hZF-sub-2 {
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .text-k8D .whether-i-wanted-to-locate-stations-by-coordinates-city-names-or-specific-keywords-the-platform-delivered-results-with-precision-saving-me-valuable-time-Fz5 {
+  max-width: 33.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .line-310-XAu {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(219, 223, 208, 0.6999999881);
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .user-4gd {
+  margin-right: 15.3rem;
+  width: calc(100% - 15.3rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .user-4gd .image-bAm {
+  margin-right: 2rem;
+  width: 7rem;
+  height: 7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-RQZ.png');
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .user-4gd .text-WoX {
+  margin: 0.95rem 0;
+  height: calc(100% - 1.9rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .user-4gd .text-WoX .matt-cannon-s8H {
+  margin-bottom: 0.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .item-3-vkD .item-2-saD .content-Bqo .user-4gd .text-WoX .san-diego-ca-aoP {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .auto-group-47iu-nkV .group-1325-rF7 {
+  margin: 0rem 72rem 0rem 57.9rem;
+  width: calc(100% - 129.9rem);
+  height: 7.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ad343e;
+  box-sizing: border-box;
+  background-color: #ad343e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK {
+  box-sizing: border-box;
+  padding: 8.2rem 46.3rem 8.8rem 10.8rem;
+  width: 100%;
+  height: 20rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #474747;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .contact-us-YXF {
+  margin-right: 13.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .mail-fbs {
+  margin: 0.2rem 16.4rem 0.4rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .mail-fbs .icon-outline-mail-Bq7 {
+  margin-right: 2.3rem;
+  width: 1.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .mail-fbs .evchargreststopswebsitecom-7yf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f8f6;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .call-EYV {
+  margin: 0.2rem 0rem 0.4rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .call-EYV .icon-outline-phone-ABF {
+  margin-right: 2.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-1326-HLZ .re1-o41 .top-bar-SDK .call-EYV .item-072-584-6985-g9b {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f8f6;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

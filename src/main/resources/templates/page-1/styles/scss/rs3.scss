@@ -1,0 +1,307 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.rs3-NmT {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .hero-Wcm {
+    height: 91.6rem;
+    position: relative;
+    flex-shrink: 0;
+    margin-bottom: 5.7rem;
+    width: 100%;
+
+    .bg-TH7 {
+      width: 144rem;
+      height: 71.5rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #f8f8f6;
+    }
+    .hero-CVb {
+      position: absolute;
+      left: 7.74rem;
+      top: 12.9rem;
+      width: 85.99rem;
+      height: 78.7rem;
+
+      .rest-stops-find-location-Kq7 {
+        font-weight: 400;
+        line-height: 0.96;
+        color: #2b2e23;
+        left: 56.19rem;
+        top: 0;
+        text-align: center;
+        font-size: 10rem;
+        font-family: Playfair Display, 'Source Sans Pro';
+        width: 29.8rem;
+        height: 28.8rem;
+        position: absolute;
+
+        .rest-stops-find-location-Kq7-sub-0 {
+        }
+        .rest-stops-find-location-Kq7-sub-1 {
+          font-size: 4.8rem;
+          font-weight: 400;
+          line-height: 2;
+          color: #2b2e23;
+          font-family: Playfair Display, 'Source Sans Pro';
+        }
+      }
+      .form-g3P {
+        width: 75.93rem;
+        height: 50.4rem;
+        position: absolute;
+        left: 0;
+        top: 28.3rem;
+
+        .bg-DJD {
+          border: solid 0.1rem #ffffff;
+          width: 73.08rem;
+          height: 50.4rem;
+          top: 0;
+          box-sizing: border-box;
+          box-shadow: 0 0.2979rem 5.9574rem rgba(0, 0, 0, 0.0799999982);
+          background-color: #ffffff;
+          border-radius: 1.6rem;
+          position: absolute;
+          left: 0;
+        }
+        .button-JqT {
+          cursor: pointer;
+          text-align: right;
+          font-size: 1.6rem;
+          line-height: 1.5;
+          color: #ffffff;
+          align-items: center;
+          background-color: #ad343e;
+          width: 71.7rem;
+          font-weight: 700;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          justify-content: center;
+          border-radius: 11.8rem;
+          top: 40.7rem;
+          height: 6.4rem;
+          position: absolute;
+          left: 4.23rem;
+          display: flex;
+        }
+        .address-1-9bB {
+          width: 15rem;
+          top: 17.2rem;
+          font-weight: 700;
+          color: #2b2e23;
+          font-size: 3.2rem;
+          line-height: 0.8125;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 2.6rem;
+          position: absolute;
+          left: 8.96rem;
+          text-align: center;
+        }
+        .rest-stop-1-Fu7 {
+          width: 16.7rem;
+          font-size: 3.6rem;
+          font-weight: 700;
+          line-height: 0.8333333333;
+          letter-spacing: -0.108rem;
+          font-family: DM Sans, 'Source Sans Pro';
+          height: 3rem;
+          position: absolute;
+          left: 8.06rem;
+          top: 5rem;
+          text-align: center;
+          color: #ad343e;
+        }
+      }
+      .mask-group-MBT {
+        top: 34.8rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 30.6rem;
+        height: 23rem;
+        position: absolute;
+        left: 45.86rem;
+      }
+    }
+    .header-svV {
+      padding-left: 0.45rem;
+      position: absolute;
+      left: 7.8rem;
+      display: flex;
+      align-items: center;
+      box-sizing: border-box;
+      width: 132.45rem;
+      height: 9.6rem;
+      top: 1.9rem;
+
+      .arrow-circle-leftcurved-BgH {
+        margin: 0.8rem 35.85rem 0rem 0rem;
+        width: 3.9rem;
+        height: 3.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .line-312-Vgy {
+        width: 61.1rem;
+        height: 0.3rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 1.1rem 1.95rem 0rem 0rem;
+      }
+      .ev-charging-station-rest-stops-d2V {
+        display: flex;
+        align-items: baseline;
+        cursor: pointer;
+        font-weight: 400;
+        line-height: 6;
+        color: #ad343e;
+        white-space: nowrap;
+        text-align: center;
+        font-size: 1.6rem;
+        font-family: Playfair Display, 'Source Sans Pro';
+        flex-shrink: 0;
+
+        .ev-charging-station-rest-stops-d2V-sub-0 {
+          font-family: Playfair Display, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 6;
+          color: #ad343e;
+        }
+        .ev-charging-station-rest-stops-d2V-sub-1 {
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 6;
+          color: #ad343e;
+          font-family: Playfair Display, 'Source Sans Pro';
+        }
+      }
+    }
+  }
+  .map-Su3 {
+    height: 76.7rem;
+    overflow: hidden;
+    position: relative;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    margin-bottom: 24.3rem;
+    width: 100%;
+
+    .image-112-PpH {
+      width: 198.4rem;
+      height: 115.5rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+  }
+  .line-312-irZ {
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-bottom: 7.4rem;
+    width: 160rem;
+    height: 0.2rem;
+  }
+  .top-bar-Tp9 {
+    padding: 8.2rem 46.3rem 8.8rem 10.8rem;
+    width: 100%;
+    display: flex;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    height: 20rem;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    background-color: #474747;
+
+    .contact-us-ads {
+      color: #ffffff;
+      font-family: DM Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 13.8rem;
+      line-height: 1.25;
+      letter-spacing: -0.072rem;
+      font-size: 2.4rem;
+      font-weight: 700;
+    }
+    .mail-tuT {
+      padding-left: 0.3rem;
+      height: calc(100% - 0.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0.2rem 16.4rem 0.4rem 0rem;
+      box-sizing: border-box;
+
+      .icon-outline-mail-DRw {
+        width: 1.8rem;
+        height: 1.4rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2.3rem;
+      }
+      .evchargreststopswebsitecom-MHF {
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #f8f8f6;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .call-smP {
+      padding-left: 0.3rem;
+      height: calc(100% - 0.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0.2rem 0rem 0.4rem 0rem;
+      box-sizing: border-box;
+
+      .icon-outline-phone-16u {
+        width: 1.8rem;
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2.3rem;
+      }
+      .item-072-584-6985-9D7 {
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #f8f8f6;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+    }
+  }
+}

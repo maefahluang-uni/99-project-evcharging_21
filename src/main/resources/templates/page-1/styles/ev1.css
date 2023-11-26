@@ -1,0 +1,907 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.ev1-xA1 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.ev1-xA1 .hero-h7b {
+  margin-bottom: 4.1rem;
+  width: 100%;
+  height: 158.5rem;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .header-2ff {
+  box-sizing: border-box;
+  padding: 0.45rem 0rem 0.45rem 0.45rem;
+  width: 99.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: center;
+}
+.ev1-xA1 .hero-h7b .header-2ff .arrow-circle-leftcurved-ujT {
+  margin-right: 34.05rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .header-2ff .line-312-34y {
+  margin-bottom: 0.3rem;
+  width: 61.1rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 {
+  width: 116.85rem;
+  height: 140.3rem;
+  position: absolute;
+  left: 14.76rem;
+  top: 4.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT {
+  margin: 0rem 3.45rem 13rem 36.45rem;
+  width: calc(100% - 39.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD {
+  margin: 8rem 20.16rem 0rem 0rem;
+  width: 47.79rem;
+  height: 31.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD .ev-charging-find-station-x5T {
+  width: 41.6rem;
+  height: 28.8rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 0.96;
+  color: #2b2e23;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD .ev-charging-find-station-x5T .ev-charging-find-station-x5T-sub-0 {
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD .ev-charging-find-station-x5T .ev-charging-find-station-x5T-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #2b2e23;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD .button-base-tdK {
+  box-sizing: border-box;
+  padding: 1.8rem 37.29rem 1.8rem 2.4rem;
+  width: 47.79rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 25.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ad343e;
+  background-color: #ffffff;
+  border-radius: 7.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD .button-base-tdK .auto-group-uhhf-BcR {
+  margin-right: 1rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #737865;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .auto-group-9bed-RrD .button-base-tdK .search-g3P {
+  margin: 0.1rem 0;
+  width: 2.1rem;
+  height: calc(100% - 0.2rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .auto-group-qezh-WDT .frame-22-AUM {
+  width: 9rem;
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf {
+  width: 100%;
+  height: 88rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo {
+  margin-right: 2.16rem;
+  width: 27.54rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  cursor: pointer;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.15rem #dbdfd0;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .mask-group-XTK {
+  margin-bottom: 3rem;
+  right: 6rem;
+  width: 10rem;
+  height: 23rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH {
+  margin-left: 2.46rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH .charging-station-1-D5F {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH .address-1-Kty {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH .address-99-Kty {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH .type-ac-price-minute-charging-time-fxq{
+  max-width: 11rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH .type-ac-price-minute-charging-time-fxq .type-ac-price-minute-charging-time-fxq-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-1-zCV .text-sGH .type-ac-price-minute-charging-time-fxq .type-ac-price-minute-charging-time-fxq-sub-1 {
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-5-D7B {
+  width: 100%;
+  height: 42.8rem;
+  border: solid 0.15rem #dbdfd0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-qgeh-FVo .item-5-D7B .mask-group-Zgq {
+  margin-bottom: 3rem;
+  right: -10rem;
+  width: 10rem;
+  height: 23rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db {
+  margin-right: 1.95rem;
+  width: 27.75rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 27.54rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.15rem #dbdfd0;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 .mask-group-9Q9 {
+  margin-bottom: 3rem;
+  right: -2rem;
+  width: 10rem;
+  height: 23rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 .text-ftH {
+  margin: 0rem 2.34rem 0rem 4.8rem;
+  width: calc(100% - 7.14rem);
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 .text-ftH .charging-station-2-akM {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 .text-ftH .address-2-ha5 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 .text-ftH .address-2-ha55 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-2-or5 .text-ftH .type-ac-price-minute-charging-time-SXf {
+  max-width: 10.7rem; 
+  text-align: center; 
+  font-size: 1.6rem; 
+  font-weight: 400; 
+  line-height: 1.5; 
+  color: #414536; 
+  font-family: DM Sans, 'Source Sans Pro'; 
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD {
+  width: 100%;
+  height: 42.8rem;
+  position: relative;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD .bg-gS1 {
+  width: 27.54rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.15rem #dbdfd0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD .mask-group-1DP {
+  margin-bottom: 3rem;
+  right: -12rem;
+  width: 10rem;
+  height: 27rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD .text-kRs {
+  width: 25.5rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 2.25rem;
+  top: 26rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD .text-kRs .charging-station-6-fHw {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD .text-kRs .address-6-afo {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-xvyj-4db .item-6-XJD .text-kRs .type-ac-price-minute-charging-time-KtH {
+  max-width: 10.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F {
+  margin-right: 2rem;
+  width: 27.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 42.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV .bg-8aq {
+  width: 27.54rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.15rem #dbdfd0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV .mask-group-4Db {
+  margin-bottom: 3rem;
+  right: -11rem;
+  width: 10rem;
+  height: 23rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV .text-bjK {
+  width: 25.4rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 26rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV .text-bjK .charging-station-3-iJ9 {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV .text-bjK .address-3-2Jq {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-3-BvV .text-bjK .type-dc-price-minute-charging-time-m1X {
+  max-width: 10.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd {
+  margin-right: 0.05rem;
+  width: calc(100% - 0.05rem);
+  height: 42.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd .bg-2CM {
+  width: 27.54rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.15rem #dbdfd0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd .mask-group-sTs {
+  margin-bottom: 3rem;
+  right: -11rem;
+  width: 10rem;
+  height: 27rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd .text-p8D {
+  width: 25.3rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 2.35rem;
+  top: 26rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd .text-p8D .charging-station-7-LMT {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd .text-p8D .address-7-Tgy {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-hm3t-F1F .item-7-Ugd .text-p8D .type-dc-price-minute-charging-time-CuT {
+  max-width: 10.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo {
+  width: 27.75rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 42.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo .bg-bRo {
+  width: 27.54rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.15rem #dbdfd0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo .mask-group-7uw {
+  margin-bottom: 3rem;
+  right: -11rem;
+  width: 10rem;
+  height: 23rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo .text-fRf {
+  width: 25.5rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 2.25rem;
+  top: 26rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo .text-fRf .charging-station-4-PMf {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo .text-fRf .address-4-KWD {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-4-Soo .text-fRf .type-dc-price-minute-charging-time-TcR {
+  max-width: 10.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX {
+  width: 100%;
+  height: 42.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX .bg-LAR {
+  width: 27.54rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.15rem #dbdfd0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX .mask-group-fCh {
+  margin-bottom: 3rem;
+  right: -11rem;
+  width: 10rem;
+  height: 27rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX .text-1XT {
+  width: 25.5rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 2.25rem;
+  top: 26rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX .text-1XT .charging-station-8-Xkh {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX .text-1XT .address-8-TuF {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .content-Nd3 .cards-JKf .auto-group-mzfk-JBo .item-8-BHX .text-1XT .type-ac-price-minute-charging-time-c1T {
+  max-width: 10.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .ev-charging-station-rest-stops-iKP {
+  width: 29.2rem;
+  height: 9.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 108.55rem;
+  top: 1.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 6;
+  color: #ad343e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.ev1-xA1 .hero-h7b .ev-charging-station-rest-stops-iKP .ev-charging-station-rest-stops-iKP-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 6;
+  color: #ad343e;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.ev1-xA1 .hero-h7b .ev-charging-station-rest-stops-iKP .ev-charging-station-rest-stops-iKP-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 6;
+  color: #ad343e;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.ev1-xA1 .hero-h7b .text-v45 {
+  width: 25.5rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 14.25rem;
+  top: 128.3rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ev1-xA1 .hero-h7b .text-v45 .charging-station-5-qRw {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .text-v45 .address-5-9hX {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .hero-h7b .text-v45 .type-dc-price-minute-charging-time-tv1 {
+  max-width: 10.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #414536;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.ev1-xA1 .line-312-o1P {
+  margin-bottom: 3.8rem;
+  width: 160rem;
+  height: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy {
+  box-sizing: border-box;
+  padding: 8.2rem 46.3rem 8.8rem 10.8rem;
+  width: 100%;
+  height: 20rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #474747;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .contact-us-enh {
+  margin-right: 13.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .mail-Nih {
+  margin: 0.2rem 16.4rem 0.4rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .mail-Nih .icon-outline-mail-VYR {
+  margin-right: 2.3rem;
+  width: 1.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .mail-Nih .evchargreststopswebsitecom-d8q {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f8f6;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .call-xB7 {
+  margin: 0.2rem 0rem 0.4rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .call-xB7 .icon-outline-phone-5Wd {
+  margin-right: 2.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.ev1-xA1 .top-bar-Xxy .call-xB7 .item-072-584-6985-Dcq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f8f6;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.charging-station--akM{
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.072rem;
+  color: #ad3440;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-3-2Jq1{
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-4-KWD1{
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-5-9hX1{
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0.5;
+  color: #2b2e23;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
